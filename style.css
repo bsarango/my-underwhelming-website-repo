@@ -1,14 +1,25 @@
 body {
-    background-color: lightcyan;
+    background-color: lightgoldenrodyellow;
 }
 
-body>h1{
+header>h1{
     text-align: center;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    color:burlywood;
+    color:chocolate;
+    text-decoration-line: underline;
 }
 
-div>img{
-    
+.food{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
 
+div>h3{
+    text-align: center;
+}
+
+h2>p{
+    background-color:darkcyan;
+}
